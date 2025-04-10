@@ -21,4 +21,4 @@ env/
 # Dataset folder
 DATASET/
 skeletal_output/
-webcam_output/
+# webcam_output/
