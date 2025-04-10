@@ -16,3 +16,9 @@ env/
 
 # IDE settings
 .vscode/
+
+
+# Dataset folder
+DATASET/
+skeletal_output/
+webcam_output/
